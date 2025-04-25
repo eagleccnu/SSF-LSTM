@@ -1,7 +1,7 @@
 # SSF-LSTM: Prediction of Protein B-factor Profiles Based on Bidirectional Long Short-Term Memory Network
 
 # Introduction
-The B-factor of a protein is an important measure that reflects the thermal motion of atoms during X-ray diffraction, indicating the flexibility and dynamics of proteins. This project implements the SSF-LSTM model described in the paper "Prediction of Protein B-factor Profiles based on Bidirectional Long Short-Term Memory Network," which integrates both sequence-based and structure-based features to predict protein B-factor profiles using deep learning techniques.
+The B-factor of proteins is an important measure that reflects the thermal motion of atoms during X-ray diffraction, indicating the flexibility and dynamics of proteins. This project implements the SSF-LSTM model described in the paper "Prediction of Protein B-factor Profiles based on Bidirectional Long Short-Term Memory Network", which integrates both sequence-based and structure-based features to predict protein B-factor profiles using deep learning techniques.
 
 SSF-LSTM is a method based on bidirectional Long Short-Term Memory (biLSTM) networks designed to improve the accuracy of B-factor predictions by combining sequence and structural information. Compared to methods relying solely on sequence data or traditional approaches, SSF-LSTM demonstrates higher prediction accuracy across multiple test datasets.
 
